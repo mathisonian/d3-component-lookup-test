@@ -1,6 +1,6 @@
-# idyll-post
+# d3-component-lookup-test
 
-Template for a single Idyll post.
+See it live: https://mathisonian.github.io/d3-component-lookup-test/
 
 ## Installation
 
