@@ -1,0 +1,20 @@
+[meta title:"D3 Component Lookup" description:"Short description of your project" /]
+
+[Header
+  fullWidth:true
+  title:"D3 Component Lookup"
+  subtitle:"Welcome to Idyll. Open index.idyll to start writing"
+  author:"Your Name Here"
+  authorLink:"https://idyll-lang.org"
+  date:`(new Date()).toDateString()`
+  background:"#222222"
+  color:"#ffffff"
+   /]
+
+
+## Testing D3 component include
+
+
+[CircleWave /]
+
+
